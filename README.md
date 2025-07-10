@@ -1,5 +1,5 @@
 # IDPR-Monthly-Performance-Report
-SAS codes to create monthly Performance Report on Integrated Disability Evaluation System (IDES) for the Departments of Defense (DoD) 
+SAS codes to create monthly Performance Report on Integrated Disability Evaluation System (IDES) for the Departments of Defense (DoD). The advanced SAS codes ncludes user-defined Macro programs, Macro varibles, joins, and looping. 
 
 About this Report:
 The Integrated Disability Evaluation System Performance Report (IDPR) presents Departments of Defense(DoD) and Veterans Affairs (VA) performance based on data from VA's Veterans Tracking Application (VTA).
