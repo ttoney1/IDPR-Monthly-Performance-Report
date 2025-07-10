@@ -1,8 +1,8 @@
 # IDPR-Monthly-Performance-Report
-SAS codes to create monthly Performance Report on Integrated Disability Evaluation System (IDES) for the Departments of Defense (DoD). The advanced SAS codes ncludes user-defined Macro programs, Macro varibles, joins, and looping. 
+SAS codes to create monthly Performance Report on Integrated Disability Evaluation System (IDES) for the Departments of Defense (DoD). The advanced SAS codes include user-defined Macro programs, Macro variables, joins, and looping. 
 
 About this Report:
-The Integrated Disability Evaluation System Performance Report (IDPR) presents Departments of Defense(DoD) and Veterans Affairs (VA) performance based on data from VA's Veterans Tracking Application (VTA).
+The Integrated Disability Evaluation System Performance Report (IDPR) presents Departments of Defense (DoD) and Veterans Affairs (VA) performance based on data from VA's Veterans Tracking Application (VTA).
 This report contains eleven major sections:
 About This Report
 Counts of IDES cases referred and completed in the reported month and since November 2007
@@ -16,6 +16,7 @@ Attachments distributed with the IDPR include:
 Compliments IDPR Supplement with Inventory & Timeliness reported for the current month
 - IDES Performance by MEB site:
 - IDES Cases Exceeding Goals Workbook: Complements Section 10
-- IDPR Supplement: Individual site data
+- IDPR Supplement: Individual site data get the same color code).
+
 AC = Active Component,
-RAD = Reserve Component- Active Duty, NAD = Reserve Component - Not on Activ
+RAD = Reserve Component- Active Duty, NAD = Reserve Component - Not on Active Duty
